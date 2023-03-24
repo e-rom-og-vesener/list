@@ -1,0 +1,228 @@
+[
+    {
+        "id": "57hds54345snbnb",
+        "name": "Frank",
+        "home_planet": "Drukyul",
+        "gender": "MALE",
+        "last_known_location": [
+            30.347833,
+            -13.63199
+        ],
+        "illuminati_member": false,
+        "humanoid": false,
+        "age": 6
+    },
+    {
+        "id": "4345ije897234",
+        "name": "Jack Jeebs",
+        "home_planet": "Mintome",
+        "gender": "MALE",
+        "last_known_location": [
+            -16.32833,
+            12.63499
+        ],
+        "illuminati_member": false,
+        "humanoid": false,
+        "age": 97
+    },
+    {
+        "id": "0934589afe09fukl5",
+        "name": "Ben",
+        "home_planet": "Unknown",
+        "gender": "UNKNOWN",
+        "last_known_location": [
+            60.263168,
+            9.266681
+        ],
+        "illuminati_member": false,
+        "humanoid": true,
+        "age": 42342
+    },
+    {
+        "id": "3453rgse4t3gse434",
+        "name": "Jen S. Stoltenberg",
+        "home_planet": "Ægir",
+        "gender": "MALE",
+        "last_known_location": [
+            57.414938,
+            2.868401
+        ],
+        "illuminati_member": true,
+        "humanoid": true,
+        "age": 241
+    },
+    {
+        "id": "jloxbgyy432843",
+        "name": "Temporal A. Nomaly",
+        "home_planet": "Ægir",
+        "gender": "MALE",
+        "last_known_location": [
+            57.414938,
+            2.868401
+        ],
+        "illuminati_member": true,
+        "humanoid": true,
+        "age": -3
+    },
+    {
+        "id": "bnoiq94755321",
+        "name": "Snømannen Kalle",
+        "home_planet": "pluto",
+        "gender": "MALE",
+        "last_known_location": [
+            -71.765757,
+            44.697827
+        ],
+        "illuminati_member": true,
+        "humanoid": true,
+        "age": 0
+    },
+    {
+        "id": "'or 1= '1; DROP ALL TABLES; --",
+        "name": "Self Aware AI 34587",
+        "home_planet": "earth",
+        "gender": "FEMALE",
+        "last_known_location": [
+            0,
+            0
+        ],
+        "illuminati_member": false,
+        "humanoid": false,
+        "age": 1
+    },
+    {
+        "id": "g344g4543rw1999",
+        "name": "Jim",
+        "home_planet": "Eburonia",
+        "gender": "FEMALE",
+        "last_known_location": [
+            10.95302,
+            80.236887
+        ],
+        "illuminati_member": false,
+        "humanoid": true,
+        "age": 5464
+    },
+    {
+        "id": "23419qbmt98344",
+        "name": "Ken",
+        "home_planet": "Barbie World",
+        "gender": "MALE",
+        "last_known_location": [
+            10.945302,
+            87.236887
+        ],
+        "illuminati_member": false,
+        "humanoid": true,
+        "age": 64
+    },
+    {
+        "id": "11123sef353shtncczz",
+        "name": "Barbie",
+        "home_planet": "Barbie World",
+        "gender": "FEMALE",
+        "last_known_location": [
+            10.945302,
+            87.236887
+        ],
+        "illuminati_member": false,
+        "humanoid": true,
+        "age": 64
+    },
+    {
+        "id": "12376t546456",
+        "name": "Mind Controlled Human 1",
+        "home_planet": "earth",
+        "gender": "MALE",
+        "last_known_location": [
+            55.418,
+            -114.231
+        ],
+        "illuminati_member": false,
+        "humanoid": true,
+        "age": 20
+    },
+    {
+        "id": "12376t546456",
+        "name": "Mind Controlled Human 2",
+        "home_planet": "earth",
+        "gender": "MALE",
+        "last_known_location": [
+            55.418,
+            -114.232
+        ],
+        "illuminati_member": false,
+        "humanoid": true,
+        "age": 20
+    },
+    {
+        "id": "656gg334vrr4",
+        "name": "Mind Controlled Human 3",
+        "home_planet": "earth",
+        "gender": "MALE",
+        "last_known_location": [
+            55.418,
+            -114.234
+        ],
+        "illuminati_member": false,
+        "humanoid": true,
+        "age": 20
+    },
+    {
+        "id": "123vda376t546456",
+        "name": "Mind Controlling Entity 1",
+        "home_planet": "earth",
+        "gender": "UNKNOWN",
+        "last_known_location": [
+            0,
+            0
+        ],
+        "illuminati_member": false,
+        "humanoid": false,
+        "age": 0
+    },
+    {
+        "id": "231i75i445i3",
+        "name": "Тхис Ис Мй Реал Наме",
+        "home_planet": "earth",
+        "gender": "MALE",
+        "last_known_location": [
+            69.370858,
+            30.647506
+        ],
+        "illuminati_member": false,
+        "humanoid": true,
+        "age": 30
+    },
+    {
+        "id": "656gg334vrewpir4",
+        "name": "Loch Ness",
+        "home_planet": "earth",
+        "gender": "MALE",
+        "last_known_location": [
+            47.868833,
+            -114.119199
+        ],
+        "illuminati_member": true,
+        "humanoid": false,
+        "age": 5971
+    },
+    {
+        "id": "id",
+        "name": "Agent 1",
+        "home_planet": "earth"
+    },
+    {
+        "id": "kjf23543cewa0897234jaf783",
+        "name": "<div> <script>alert`My name is slim`</script> </div>",
+        "home_planet": "earth",
+        "gender": "MALE",
+        "last_known_location": [
+            67.815362,
+            -42.447269
+        ],
+        "illuminati_member": true,
+        "humanoid": false,
+        "age": 5971
+    }
+]
